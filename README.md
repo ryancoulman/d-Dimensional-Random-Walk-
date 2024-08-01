@@ -1,7 +1,7 @@
 # Random Walk Simulation
 
 This project implements a random walk simulation in multiple dimensions using C. The code demonstrates proficiency in several fundamental programming concepts, including dynamic memory allocation, use of structs, file I/O, and modular code organization.
-This project was part of my final year module 'Programming' and received a mark of 88%. 
+This project was part of my final year module 'Programming' and received a mark of 88%. Please see `code_report.pdf` to see extensive testing of the programme's capabilities and an explanation of the approach involved.   
 
 ## Features
 
