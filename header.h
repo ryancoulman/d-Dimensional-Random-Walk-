@@ -1,5 +1,5 @@
-#ifndef RNDWALKGRID_25590_H
-#define RNDWALKGRID_25590_H
+#ifndef HEADER_H
+#define HEADER_H
 
 #include <stdio.h>
 
@@ -31,4 +31,4 @@ void print_M_positions(pos_info *, int M);
 // function to handle file writing
 FILE *open_file(const char *, const char *);
 
-#endif /* RNDWALKGRID_25590_H */
+#endif /* HEADER_H */
