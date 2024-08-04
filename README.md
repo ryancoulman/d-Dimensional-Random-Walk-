@@ -1,7 +1,7 @@
 # Random Walk Simulation
 
-This project implements a random walk simulation in multiple dimensions using C. The code demonstrates proficiency in several fundamental programming concepts, including dynamic memory allocation, use of structs, file I/O, and modular code organization.
-This project was part of my final year module 'Programming' and received a mark of 88%. Please see `code_report.pdf` to see extensive testing of the programme's capabilities and an explanation of the approach involved.   
+This project implements a random walk simulation in multiple cartesian dimensions using C. The code demonstrates proficiency in several fundamental programming concepts, including dynamic memory allocation, use of structs, file I/O, and modular code organization.
+This project was part of my final year module 'Programming' and received a mark of 88%. Please see `code_report.pdf` to see extensive testing of the programs capabilities and an explanation of the approach involved.   
 
 ## Features
 
@@ -11,7 +11,8 @@ This project was part of my final year module 'Programming' and received a mark 
 
 ## Key Concepts Demonstrated
 
-- **Dynamic Memory Allocation:** Utilizes `malloc` and `free` to manage memory for simulation structures.
+- **Dynamic Memory Allocation:** Utilises `malloc`, `realloc` and `free` to manage memory for simulation structures.
+- **Pointers:**
 - **Structs:** Defines and manipulates complex data structures to represent the state of the random walk.
 - **File I/O:** Writes simulation results to CSV files for visualization and analysis.
 - **Random Number Generation:** Uses random functions to simulate the movement of particles in the grid.
