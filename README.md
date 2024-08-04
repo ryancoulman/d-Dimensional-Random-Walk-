@@ -12,7 +12,7 @@ This project was part of my final year module 'Programming' and received a mark 
 ## Key Concepts Demonstrated
 
 - **Dynamic Memory Allocation:** Utilises `malloc`, `realloc` and `free` to manage memory for simulation structures.
-- **Pointers:**
+- **Pointers:** Accesses and amends main() defined variables within functions using pointers.
 - **Structs:** Defines and manipulates complex data structures to represent the state of the random walk.
 - **File I/O:** Writes simulation results to CSV files for visualization and analysis.
 - **Random Number Generation:** Uses random functions to simulate the movement of particles in the grid.
